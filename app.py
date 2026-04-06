@@ -1,3 +1,6 @@
+!pip install streamlit scipy numpy matplotlib
+!npm install -g localtunnel
+
 import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
